@@ -1,0 +1,74 @@
+/*http://localhost/BossioLuciusAsst1/Asst1Main.php*/
+/*Lucius Bossio*/
+/*CSS file for braodway show ticketing app*/
+
+/*Primary Elements*/
+body
+{
+	font-family: Calibri, Arial, sans-serif;
+	font-size: 1.2em;
+    background-color: #252424;
+	color: #f8f8ff;
+}
+h1
+{
+	border: 0.07em solid #98FB98;
+	text-align: center;
+	margin-left: 3em;
+	margin-right: 3em;
+	margin-bottom: 1.2em;
+}
+.navBar
+{
+	text-align: center;
+}
+
+
+/*Form*/
+.datapair
+{
+	margin-top: 1em;
+    margin-bottom: 1em;
+}
+input[type="text"], input[type="date"], input[type="time"], input[type="number"], input[type="radio"]
+{
+	font-family: Calibri, Arial, sans-serif;
+	font-size: 1.2em;
+}
+label
+{
+	font-size: 1.2em;
+}
+
+/*Links*/
+a
+{
+	color: #98FB98;
+	text-decoration: none;
+}
+a:hover
+{
+	opacity: 0.5;
+	text-decoration: none;
+}
+a:active
+{
+	color: #9a1beb;
+}
+a:visited
+{
+	color: #9a1beb;
+	text-decoration: none;
+}
+
+/*Table*/
+table, td, th
+{
+	font-size: 1.1em;
+	width: auto;
+	border: 0.1em solid #f8f8ff;
+	border-collapse: collapse;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
